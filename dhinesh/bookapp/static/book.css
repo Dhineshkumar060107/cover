@@ -1,0 +1,10 @@
+.author-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    object-position: center top; /* ADDED THIS */
+  }
+  
